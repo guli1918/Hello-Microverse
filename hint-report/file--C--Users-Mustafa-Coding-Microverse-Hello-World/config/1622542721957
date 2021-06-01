@@ -1,0 +1,1 @@
+{"connector":{"name":"local","options":{"pattern":["**","!.git/**","!node_modules/**"]}},"extends":["development"],"formatters":["stylish"],"hints":{"0":"button-type","1":"disown-opener","2":"html-checker","3":"meta-charset-utf-8","4":"meta-viewport","5":"no-inline-styles:error"},"language":"en-GB"}

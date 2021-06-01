@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    font-size: 3rem;
+    font-family: sans-serif;
+    color: rgb(176, 238, 211);
+    letter-spacing: 20px;
+    text-shadow: 4px 4px rgb(133, 226, 186, 0.5);
+}
